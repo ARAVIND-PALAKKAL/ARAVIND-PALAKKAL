@@ -1,6 +1,6 @@
 # Hi, I'm Aravind 👋
 
-**Robotics Engineer** · Kerala, India  
+**Robotics Engineer** · Nuremberg, Germany
 Building autonomous systems that move, sense, and decide.
 
 ---
