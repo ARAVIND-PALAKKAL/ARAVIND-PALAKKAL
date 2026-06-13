@@ -36,6 +36,6 @@ Building autonomous systems that move, sense, and decide.
 
 ## 📫 Reach Me
 
-- 🌐 [aravindpalakkal.dev](https://your-vercel-url.vercel.app) ← replace with your Vercel URL
+- 🌐 [aravindpalakkal.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/aravind-palakkal-tech/)
-- 📧 ravi@protonmail.com
+- 📧 aravind.jpalakkal@gmail.com
