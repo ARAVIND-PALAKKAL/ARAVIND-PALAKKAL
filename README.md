@@ -38,4 +38,4 @@ Building autonomous systems that move, sense, and decide.
 
 - 🌐 [Web](https://www.aravindpalakkal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aravind-palakkal-tech/)
-- 📧 [0Email](https://wwww.aravind.jpalakkal@gmail.com)
+- 📧 [Email](https://wwww.aravind.jpalakkal@gmail.com)
