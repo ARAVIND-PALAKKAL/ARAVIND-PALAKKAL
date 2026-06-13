@@ -36,6 +36,6 @@ Building autonomous systems that move, sense, and decide.
 
 ## 📫 Reach Me
 
-- 🌐 [aravindpalakkal.com
+- 🌐 [Web](https://www.aravindpalakkal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aravind-palakkal-tech/)
-- 📧 aravind.jpalakkal@gmail.com
+- 📧 [0Email](https://wwww.aravind.jpalakkal@gmail.com)
