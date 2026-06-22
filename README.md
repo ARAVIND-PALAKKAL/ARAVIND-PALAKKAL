@@ -19,11 +19,10 @@ Building autonomous systems that move, sense, and decide.
 | Project | What it does | Stack |
 |---|---|---|
 | [Warehouse AMR](https://github.com/ARAVIND-PALAKKAL/ros2_logistics_amr) | Autonomous mobile robot with SLAM-based mapping and Nav2 navigation | ROS2, Gazebo, Docker |
-| [Portfolio](https://github.com/ARAVIND-PALAKKAL/portfolio) | Personal site with particle background and terminal aesthetic | Next.js, TypeScript |
 | [Energy-forecasting-classical-vs-deeplearning](https://github.com/ARAVIND-PALAKKAL/energy-forecasting-projects) | Classical Learning VS Deep Learning | Pandas, Numpy, Sklearn, torch |
 | [Energy-load-forecasting-multivariate](https://github.com/ARAVIND-PALAKKAL/energy-load-forecasting-multivariate) | Classical Learning VS Deep Learning | Pandas, Numpy, Sklearn, torch |
 | [Energy-forecasting-foundation-models](https://github.com/ARAVIND-PALAKKAL/energy-forecasting-foundation-models) | Classical Learning VS Deep Learning | Pandas, Numpy, Sklearn, torch |
-
+| [Portfolio](https://github.com/ARAVIND-PALAKKAL/portfolio) | Personal site with particle background and terminal aesthetic | Next.js, TypeScript |
 
 ---
 
