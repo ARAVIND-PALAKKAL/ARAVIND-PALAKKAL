@@ -20,7 +20,7 @@ Building autonomous systems that move, sense, and decide.
 |---|---|---|
 | [Warehouse AMR](https://github.com/ARAVIND-PALAKKAL/ros2_logistics_amr) | Autonomous mobile robot with SLAM-based mapping and Nav2 navigation | ROS2, Gazebo, Docker |
 | [Portfolio](https://github.com/ARAVIND-PALAKKAL/portfolio) | Personal site with particle background and terminal aesthetic | Next.js, TypeScript |
-| [Energy Forcasting](https://github.com/ARAVIND-PALAKKAL/energy-forecasting-projects) | Classical Learning VS Deep Learning
+| [Energy Forcasting](https://github.com/ARAVIND-PALAKKAL/energy-forecasting-projects) | Classical Learning VS Deep Learning | Pandas, Numpy, Sklearn, torch |
 ---
 
 ## 🛠 Tech Stack
